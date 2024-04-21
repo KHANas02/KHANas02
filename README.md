@@ -1,12 +1,13 @@
 - 👋 Hi, I’m Abdullayev Asadbek
-- 👀 I’m interested in .Web Developer
-- 🌱 I’m currently learning .Java_script
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me abdullayefasadbek@gmail.com 
+- 👀 I have hungry to Web Developer
+- 🌱 I’m currently learning Java_script
+- 💞️ I’m a Frontend learner 
+- 📫 How to reach me webdeveloperas02@gmail.com 
 - 😄 Pronouns: Cheerfull
-- ⚡ Fun fact: I love DART
-- FOLLOW TO ME
-- TO JUMP MY TELEGRAM @wzb_02
+- ⚡ Fun fact: I love Backend
+- FOLLOW TO My channel https://t.me/englify_asp
+- TO JUMP MY TELEGRAM @asow_02
+- KHANas02 is a ✨ special ✨ Web Developer around th world
 <!---
 KHANas02/KHANas02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
