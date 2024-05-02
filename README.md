@@ -6,7 +6,7 @@
 - 😄 Pronouns: Cheerfull
 - ⚡ Fun fact: I love Backend
 - FOLLOW TO My channel https://t.me/englify_asp
-- TO JUMP MY TELEGRAM @asow_02
+- TO JUMP MY TELEGRAM @_forever_asow
 - KHANas02 is a ✨ special ✨ Web Developer around the world
 <!---
 KHANas02/KHANas02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
