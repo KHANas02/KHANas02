@@ -5,7 +5,7 @@
 - 📫 How to reach me webdeveloperas02@gmail.com 
 - 😄 Pronouns: Cheerfull
 - ⚡ Fun fact: I love Backend
-- FOLLOW TO My channel https://t.me/englify_asp
+
 - TO JUMP MY TELEGRAM @forever_asow
 - KHANas02 is a ✨ special ✨ Web Developer around the world
 <!---
